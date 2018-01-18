@@ -102,7 +102,9 @@ I find that small multiple charts are very useful when it comes to analysing the
 ## Resources : 
 
 [1] An Introduction to Small Multiples - https://www.infragistics.com/community/blogs/b/tim_brock/posts/an-introduction-to-small-multiples
+
 [2] Wikipedia - https://en.wikipedia.org/wiki/Small_multiple
+
 [3] NASA - Scientific Visualization Studio : https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4204
 
 
