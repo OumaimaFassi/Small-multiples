@@ -44,7 +44,7 @@ This way, you can actually browse the small multiple layout at your leisure. You
 This show the utility of **small multiple charts**.
 
 
-##Historical examples 
+## Historical examples 
 
 ### 1886 : Horse in motion 
 
