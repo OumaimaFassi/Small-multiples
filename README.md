@@ -83,7 +83,7 @@ The graphic below from NASA's Scientific Visualization Studio showing the variat
 <table border="0">
   <tr>
     <td>
-      <img src="img/img4.jpg" style="width: 100px;">
+      <img src="img/img5.jpg" style="width: 100px;">
     </td>
   </tr>
   <tr>
