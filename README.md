@@ -99,7 +99,7 @@ You can see it more clearly in [full resolution](https://svs.gsfc.nasa.gov/vis/a
 
 I find that small multiple charts are very useful when it comes to analysing the change and the motion of data in many directions on dimensions. These charts allow us to visualize a big amount of data in a way that shows the evolution and the change of statistical features of this data. Therefore, it makes the meanings of the chart more obvious and easy to visualize.
 
-##Resources : 
+## Resources : 
 
 [1] An Introduction to Small Multiples - https://www.infragistics.com/community/blogs/b/tim_brock/posts/an-introduction-to-small-multiples
 [2] Wikipedia - https://en.wikipedia.org/wiki/Small_multiple
