@@ -2,11 +2,17 @@
 
 ## Definition and utility :
 Small multiples go by many names, including Trellis Chart, Lattice Chart, Grid Chart, and Panel Chart.
-Small multiples are sets of charts of the same type, with the same scale, presented together at a small size and with minimal detail, usually in a grid of some kind.
+
+They are sets of charts of the same type, with the same scale, presented together at a small size and with minimal detail, usually in a grid of some kind.
+
 They are a visualization concept introduced by Edward Tufte. He described them as:
+
 "Illustrations of postage-stamp size are indexed by category or a label, sequenced over time like the frames of a movie, or ordered by a quantitative variable not used in the single image itself."
+
 In other words, small multiples use the same basic graphic or chart to display difference slices of a data set. Small multiples can show rich, multi-dimensional data without trying to cram all that information into a single, overly-complex chart. 
+
 Here is a simple example showing the use of small multiples. The following animated chart shows the evolution of populations in some selected countries : [1]
+
 <table border="0">
   <tr>
     <td>
@@ -43,6 +49,7 @@ This show the utility of **small multiple charts**.
 ### 1886 : Horse in motion 
 
 Some of the earliest known examples of this type of visualization include the photographic series Horse In Motion by Eadweard Muybridge, around 1886, and Francis Amasa Walker's chart of citizen's occupations in census year 1870 appearing in the Statistical Atlas of the United States. 
+
 <table border="0">
   <tr>
     <td>
@@ -55,6 +62,7 @@ Some of the earliest known examples of this type of visualization include the ph
     </td>
   </tr>
 </table>
+
 Muybridge's work not only proved for the first time that all four of a horse's hooves left the ground during gallop (see upper central plates), but it also broke new ground in terms of artistic expression and became foundational to the development of the motion picture. Muybridge went on to produce many more examples of small multiples showing animal locomotion through the medium of stop-motion photography, including boys playing leapfrog and a bison cantering. [2]
 
 ### 1874 : Statistical Atlas of the United States
